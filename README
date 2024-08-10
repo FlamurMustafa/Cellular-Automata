@@ -1,0 +1,14 @@
+#Cellular Automata - Conoway 
+
+-Implemented a TUI based application that simulates the no player game of Cellular Automata
+based on the rules of John Conway
+
+-The rules and more info: https://wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+#Running:
+-You have to create a csv file named input.csv, and put the coordinates of the alive cells
+just like the format present.
+
+	and run 'go run .'
+
+-If you want to change the size of the simulation, change the xi and yi variables in 24, 25th line
